@@ -1,5 +1,5 @@
 # Trabalho Final Linguagem de Programação 👨‍💻👩‍💻
- 🏫Fatec Arthur de Azevedo💻
+ 🏫Realizado na Fatec Arthur de Azevedo - Mogi - Mirim💻
  <hr>
 
 <h3>Logo de entrada:</h1>
@@ -28,7 +28,15 @@
 - `Funcionalidade 8`: Saldo Geral - Mostra o saldo total de todas as contas cadastradas.
 - `Funcionalidade 9`: Sair -  Encerra o programa.
 
+# Autores
 
+| [<img src="https://avatars.githubusercontent.com/u/90858007?v=4https://avatars.githubusercontent.com/u/90858007?v=4" width=115><br><sub>Esther Moreira Pedrosa</sub>](https://github.com/EstherMoreiraPedrosa) |  [<img src="https://avatars.githubusercontent.com/u/61357219?v=4" width=115><br><sub>Fábio Eloy Passos</sub>](https://github.com/FabioPassos10) |  [<img src="https://avatars.githubusercontent.com/u/99525808?v=4" width=115><br><sub>jonathan Gonçalvez</sub>](https://github.com/Joejoegoncalves) | [<img src="https://avatars.githubusercontent.com/u/105463088?v=4https://avatars.githubusercontent.com/u/105463088?v=4" width=115><br><sub>Larissa Gabrielle de Souza</sub>](https://github.com/LarissaGabrielle) |
+| :---: | :---: | :---: | :---: |
+
+
+<br>
+<br>
+<br>
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
