@@ -77,14 +77,7 @@ void atualizar(p_conta pConta[], int tamanho){
             fflush(stdin);
             printf("\n Digite o novo nome: ");
             gets(pConta[i]->cliente);
-            printf(" Digite o novo tipo de conta: \n");
-            printf("   +-------------------------+\n");
-            printf("   |    0 - Conta Normal     |\n");
-            printf("   |    1 - Conta Especial   |\n");
-            printf("   +-------------------------+\n");
-            printf("-->  ");
-            scanf("%d", &pConta[i]->especial);
-            printf("\n+---------------------------------------+\n");
+            printf("\n\n+---------------------------------------+\n");
             printf("|       Conta Atualizada com sucesso    |\n");
             printf("+---------------------------------------+\n");
             system("pause");
