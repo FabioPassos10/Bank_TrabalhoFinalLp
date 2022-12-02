@@ -30,7 +30,7 @@
 
 # Autores👦👧
 
-| [<img src="https://avatars.githubusercontent.com/u/90858007?v=4https://avatars.githubusercontent.com/u/90858007?v=4" width=115><br><sub>Esther Moreira Pedrosa</sub>](https://github.com/EstherMoreiraPedrosa) |  [<img src="https://avatars.githubusercontent.com/u/61357219?v=4" width=115><br><sub>Fábio Eloy Passos</sub>](https://github.com/FabioPassos10) |  [<img src="https://avatars.githubusercontent.com/u/99525808?v=4" width=115><br><sub>jonathan Gonçalvez</sub>](https://github.com/Joejoegoncalves) | [<img src="https://avatars.githubusercontent.com/u/105463088?v=4https://avatars.githubusercontent.com/u/105463088?v=4" width=115><br><sub>Larissa Gabrielle de Souza</sub>](https://github.com/LarissaGabrielle) |
+| [<img src="https://avatars.githubusercontent.com/u/90858007?v=4https://avatars.githubusercontent.com/u/90858007?v=4" width=115><br><sub>Esther Moreira</sub>](https://github.com/EstherMoreiraPedrosa) |  [<img src="https://avatars.githubusercontent.com/u/61357219?v=4" width=115><br><sub>Fábio Passos</sub>](https://github.com/FabioPassos10) |  [<img src="https://avatars.githubusercontent.com/u/99525808?v=4" width=115><br><sub>jonathan Gonçalvez</sub>](https://github.com/Joejoegoncalves) | [<img src="https://pps.whatsapp.net/v/t61.24694-24/310339022_909712923344392_1518839047327845488_n.jpg?ccb=11-4&oh=01_AdQgDxyS2_U1oJYxQCNAm6q1Rc0vUCXnDKJfgCfMalGf2A&oe=6397269A" width=115><br><sub>Larissa Gabrielle</sub>](https://github.com/LarissaGabrielle) |
 | :---: | :---: | :---: | :---: |
 
 
